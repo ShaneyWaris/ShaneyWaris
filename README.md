@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    This is ME, Shaney Waris, a <b>third year</b>, "Computer Science and Design" undergraduate student at<a href="https://iiitd.ac.in/"> <b>IIIT</b>, Delhi</a>. <br>
+    This is ME, Shaney Waris, a <b>third year</b>, <b>"Computer Science and Design"</b> undergraduate student at<a href="https://iiitd.ac.in/"> <b>IIIT</b>, Delhi</a>. <br>
     A <b>Computer Science Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning/Natural Language Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -33,13 +33,13 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ I love to play with data and extract the meaningful information/insights from it.<br>
+✔ I like to do analysis on data, extracting some meaningful information or insights from it.<br>
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ You can look at my website [here](http://shaneywaris.herokuapp.com/). I am adding more projects in it.<br>
 ✔ I’m looking for Internships where I can learn/apply my knowledge in real world 🙂<br>
 ✔ Ask me about anything, We can make something great together!<br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages, Frameworks & Tools I Know...***
 <p align="left">
   
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code> 
