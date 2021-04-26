@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    This is ME, Shaney Waris, a <b>third year</b>, "Computer Science and Design" undergraduate from <a href="https://iiitd.ac.in/"> <b>IIIT</b>, Delhi</a>. <br>
+    This is ME, Shaney Waris, a <b>third year</b>, "Computer Science and Design" undergraduate student at<a href="https://iiitd.ac.in/"> <b>IIIT</b>, Delhi</a>. <br>
     A <b>Computer Science Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning/Natural Language Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
