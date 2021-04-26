@@ -4,7 +4,7 @@
 <hr>
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shaney Waris</h1>
-<h3 align="center">ML/DL/NLP Enthusiast  |  Flask/Django Developer  |  Pizza Lover</h3>
+<h3 align="center">ML/DL/NLP Enthusiast&nbsp;&nbsp;|&nbsp;&nbsp;Flask/Django Developer&nbsp;&nbsp;|&nbsp;&nbsp;Pizza Lover</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/shaneywaris/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://twitter.com/ShaneyWaris" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash chowrasia" height="30" width="40" /></a>
