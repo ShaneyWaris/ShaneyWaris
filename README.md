@@ -33,7 +33,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ I like to do analysis on data, extracting some meaningful information or insights from it.<br>
+✔ I like to do analysis on data, extracting meaningful information/insights from it.<br>
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ You can look at my website [here](http://shaneywaris.herokuapp.com/). I am adding more projects in it.<br>
 ✔ I’m looking for Internships where I can learn/apply my knowledge in real world 🙂<br>
