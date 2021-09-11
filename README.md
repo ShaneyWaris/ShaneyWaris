@@ -4,7 +4,7 @@
 <hr>
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shaney Waris</h1>
-<h3 align="center">ML/DL/NLP Enthusiast&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;Flask/Django/Flutter Developer&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;Pizza Lover</h3>
+<h3 align="center">ML/CV/NLP Enthusiast&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;Flask/Django/Flutter Developer&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;Pizza Lover</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/shaneywaris/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://twitter.com/ShaneyWaris" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash chowrasia" height="30" width="40" /></a>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    This is ME, Shaney Waris, a <b>third year</b>, <b>"Computer Science and Design"</b> undergraduate student at<a href="https://iiitd.ac.in/"> <b>IIIT</b>, Delhi</a>. <br>
+    This is ME, Shaney Waris, a <b>final year</b>, <b>"Computer Science and Design"</b> undergraduate student at<a href="https://iiitd.ac.in/"> <b>IIIT</b>, Delhi</a>. <br>
     A <b>Computer Science Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning/Natural Language Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -33,8 +33,9 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ I like to do analysis on data, extracting meaningful information/insights from it.<br>
-✔ I like to do analysis on data, extracting meaningful information/insights from it.<br>
+✔ I am passionate developer, and always looking to solves real world problems with my technical skills.<br>
+✔ I am a quick learner & I enjoys more when I work in a team.<br>
+✔ I like to do analysis on data, extracting meaningful information/insights from it & can present it in an easy way.<br>
 ✔ I’m looking for Internships/full time opportunities where I can apply my knowledge to make some impact in the real world 🙂<br>
 ✔ Let's connect [here](https://www.linkedin.com/in/shaneywaris/). We can make something great together!<br>
 
