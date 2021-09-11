@@ -36,7 +36,7 @@
 ✔ I am passionate developer, and always looking to solves real world problems with my technical skills.<br>
 ✔ I am a quick learner & I enjoys more when I work in a team.<br>
 ✔ I like to do analysis on data, extracting meaningful information/insights from it & can present it in an easy way.<br>
-✔ I’m looking for Internships/full time opportunities where I can apply my knowledge to make some impact in the real world 🙂<br>
+✔ I’m looking for Internships/full time opportunities where I can apply my knowledge to create a fruitful impact in the real world 🙂<br>
 ✔ Let's connect [here](https://www.linkedin.com/in/shaneywaris/). We can make something great together!<br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages, Frameworks & Tools I Know...***
