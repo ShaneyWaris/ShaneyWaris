@@ -44,7 +44,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![Web3](https://img.shields.io/badge/web3.js-000000?style=for-the-badge&logo=web3.js&logoColor=white)&nbsp;
