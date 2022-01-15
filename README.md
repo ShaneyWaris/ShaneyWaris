@@ -20,12 +20,12 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p> -->
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=340px alt="Unicorn" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaneyWaris" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***More About Myself ...***
 
 ✔ One of my key skill is <b>Googling</b>.<br>
-✔ I know the <b>strength of each programming language</b>, and use them accordingly.<br>
+✔ I know the <b>strength of each programming language</b>.<br>
 ✔ I am a <b>quick learner</b> & I enjoys more when I work in a team.<br>
 ✔ I like to do analysis on data, extracting meaningful information & insights from it.<br>
 ✔ I am passionate developer, and always looking to solves real world problems with my <b>technical</b> and <b>design</b> skills.<br>
