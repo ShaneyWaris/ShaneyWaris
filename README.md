@@ -3,26 +3,17 @@
 </p>
 <hr>
 -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shaney Waris</h1>
-<h3 align="center">ML & NLP Enthusiast&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;MERN & Blockchain Developer&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;Pizza Lover</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/shaneywaris/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://twitter.com/ShaneyWaris" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash chowrasia" height="30" width="40" /></a>
- <a href = "mailto: shaney18308@iiitd.ac.in"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shaney Waris <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="70px"> </h1>
+<h3 align="center">MERN stack & Blockchain Developer&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;ML & NLP Enthusiast&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;Pizza Lover</h3>
 </p>
 
 
 <p align="center">
   <em>
-    This is ME, Shaney Waris, a <b>final year</b>, <b>"Computer Science and Design"</b> undergraduate student at<a href="https://iiitd.ac.in/"> <b>IIIT</b>, Delhi</a>. <br>
-    A <b>Computer Science Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning/Natural Language Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    I'm a <b>B.Tech Final Year</b>, <b>"Computer Science and Design"</b> undergraduate student at <a href="https://iiitd.ac.in/"><b>IIIT Delhi</b></a>.<br>
+    A <b>Computer Science Engineer</b> and a <b>Machine Learning</b> and <b>Natural Language Programming</b> Enthusiast. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50px"> &nbsp;
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
 
@@ -31,25 +22,52 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***More About Myself ...***
 
-✔ I am passionate developer, and always looking to solves real world problems with my technical skills.<br>
-✔ I am a quick learner & I enjoys more when I work in a team.<br>
-✔ I like to do analysis on data, extracting meaningful information/insights from it & can present it in an easy way.<br>
-✔ I’m looking for Internships/full time opportunities where I can apply my knowledge to create a fruitful impact in the real world 🙂<br>
-✔ Let's connect [here](https://www.linkedin.com/in/shaneywaris/). We can make something great together!<br>
+✔ One of my key skill is <b>Googling</b>.<br>
+✔ I know the <b>strength of each programming language</b>, and use them accordingly.<br>
+✔ I am a <b>quick learner</b> & I enjoys more when I work in a team.<br>
+✔ I like to do analysis on data, extracting meaningful information and insights from it.<br>
+✔ I am passionate developer, and always looking to solves real world problems with my <b>technical</b> and <b>design</b> skills.<br>
+✔ I’m looking for <b>Internships</b> and <b>full time opportunities</b> where I can apply my knowledge to create a fruitful impact in the real world 🙂<br>
+✔ Let's connect on [LinkedIn](https://www.linkedin.com/in/shaneywaris/). We can make something great together!<br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages, Frameworks & Tools I Know...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages, Frameworks & Tools I Know ...***
 <p align="left">
   
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Web3](https://img.shields.io/badge/web3.js-000000?style=for-the-badge&logo=web3.js&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)&nbsp;
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-000000?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
+![PremirePro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)&nbsp;
+![XD](https://img.shields.io/badge/Adobe%20XD-000000?style=for-the-badge&logo=Adobe%20XD&logoColor=white)&nbsp;
+
+
+  
+<!--  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-<!-- ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\ -->
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -59,26 +77,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!-- ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; -->
-<!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255) &nbsp; -->
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)  -->
   
-  
-<!--   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>  -->
-<!--   <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>  -->
-<!--   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"></code>  -->
-<!--   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code> -->
-<!--   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code> -->
-<!--   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/firebase.svg"> </code> -->
-<!--   <code> <img height="50" src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667"> </code> -->
-<!--   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code> -->
-<!--   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code> -->
-<!--   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code> -->
-<!--   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code> -->
-<!--   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code> -->
-<!--   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/html.svg"> </code> -->
-<!--   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code> -->
-<!--   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code> -->
-<!--   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/b00tstrap.svg"> </code> -->
+<!-- Site: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
