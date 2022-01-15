@@ -29,7 +29,7 @@
 ✔ I am a <b>quick learner</b> & I enjoys more when I work in a team.<br>
 ✔ I like to do analysis on data, extracting meaningful information from it.<br>
 ✔ I am passionate developer, and always looking to solves real world problems with my <b>technical</b> and <b>design</b> skills.<br>
-✔ I’m looking for <b>Internships</b> and <b>full time opportunities</b> where I can apply my knowledge to create a fruitful impact in the real world 🙂<br>
+✔ I’m looking for <b>Internships</b> & <b>full time opportunities</b> where I can apply my knowledge to create a fruitful impact in the real world 🙂<br>
 ✔ Let's connect on [LinkedIn](https://www.linkedin.com/in/shaneywaris/). We can make something great together!<br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages, Frameworks & Tools I Know ...***
