@@ -3,7 +3,7 @@
 </p>
 <hr>
 -->
-<h1 align="center">Hi, I'm Shaney Waris <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="10px" style='max-width:20px'> </h1>
+<h1 align="center">Hi, I'm Shaney Waris </h1>
 <h3 align="center">MERN stack & Blockchain Developer&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;ML & NLP Enthusiast&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;Pizza Lover</h3>
 </p>
 
@@ -11,7 +11,7 @@
 <p align="center">
   <em>
     I'm a <b>B.Tech Final Year</b>, <b>"Computer Science and Design"</b> undergraduate student at <a href="https://iiitd.ac.in/"><b>IIIT Delhi</b></a>.<br>
-    A <b>Computer Science Engineer</b> and a <b>Machine Learning</b> and <b>Natural Language Processing</b> Enthusiast. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50px"> &nbsp;
+    A <b>Computer Science Engineer</b> and a <b>Machine Learning</b> and <b>Natural Language Processing</b> Enthusiast. 
   </em> 
   <br>
 </p>
