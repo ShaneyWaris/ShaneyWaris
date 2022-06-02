@@ -20,7 +20,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p> -->
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***More About Myself ...***
+&nbsp;***More About Myself ...***
 
 ✔ One of my key skill is <b>Googling</b>.<br>
 ✔ I know the <b>strength of each programming language</b>.<br>
