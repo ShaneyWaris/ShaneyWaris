@@ -3,7 +3,7 @@
 </p>
 <hr>
 -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shaney Waris <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px"> </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">, I'm Shaney Waris <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px"> </h1>
 <h3 align="center">MERN stack & Blockchain Developer&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;ML & NLP Enthusiast&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;&nbsp;Pizza Lover</h3>
 </p>
 
