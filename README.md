@@ -20,8 +20,6 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p> -->
 
-<img align="right" width=340px alt="Unicorn" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaneyWaris" />
-
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***More About Myself ...***
 
 ✔ One of my key skill is <b>Googling</b>.<br>
@@ -32,7 +30,7 @@
 ✔ I’m looking for <b>Internships</b> & <b>full time opportunities</b> where I can apply my knowledge to create a fruitful impact in the real world 🙂<br>
 ✔ Let's connect on [LinkedIn](https://www.linkedin.com/in/shaneywaris/). We can make something great together!<br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages, Frameworks & Tools I Know ...***
+&nbsp;***Languages, Frameworks & Tools I Know ...***
 <p align="left">
   
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)&nbsp;
