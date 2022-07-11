@@ -47,8 +47,6 @@
 ![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;
 ![Web3](https://img.shields.io/badge/web3.js-000000?style=for-the-badge&logo=web3.js&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)&nbsp;
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-000000?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
