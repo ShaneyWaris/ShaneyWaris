@@ -10,7 +10,7 @@
 
 <p align="center">
   <em>
-    I'm a <b>B.Tech Final Year</b>, <b>"Computer Science and Design"</b> undergraduate student at <a href="https://iiitd.ac.in/"><b>IIIT Delhi</b></a>.<br>
+    I'm a <b>B.Tech</b>, <b>"Computer Science and Design"</b> graduate student at <a href="https://iiitd.ac.in/"><b>IIIT Delhi</b></a>.<br>
     A <b>Computer Science Engineer</b> and a <b>Machine Learning</b> and <b>Natural Language Processing</b> Enthusiast. 
   </em> 
   <br>
